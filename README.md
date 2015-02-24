@@ -1,0 +1,2 @@
+# phyton
+Scripts python inciante
